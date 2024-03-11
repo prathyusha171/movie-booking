@@ -1,0 +1,132 @@
+[
+   {
+        "id":1,
+        "name":"Animal",
+        "image":"Image/p1.jpg",
+        "category":"U/A",
+        "Genres":"Action/crime",
+        "language": "Hindi, Telugu, Tamil, Malayalam, Kannada"
+    }, 
+    {
+        "id":2,
+        "name":"Interstellar", 
+        "image":"Image/p2.jpg",
+        "category":"U/A",
+        "Genres":"Sci-fi/Adventure",
+        "language": "Thai,English"
+    },
+    {
+        "id":3,
+        "name":"Imaikkaanodigal",
+        "image":"Image/p3.jpg",
+        "category":"U/A",
+        "Genres":"Thriller",
+        "language": "Tamil,Telugu,English"
+    },
+    {
+        "id":4,
+        "name":"Pushpa",
+        "image":"Image/p4.jpg",
+        "category":"U/A",
+        "Genres":"Action/Thriller",
+        "language": "Hindi, Telugu, Tamil, Malayalam, Kannada"
+    },
+    {
+        "id":5,
+        "name":"MAD",
+        "image":"Image/p5.jpg",
+        "category":"U/A",
+        "Genres":"Drama",
+        "language": "Telugu"
+    }, 
+    {
+        "id":6,
+        "name":"Dj",
+        "image":"Image/p6.jpg",
+        "category":"U/A",
+        "Genres":"Comedy/Action",
+        "language": "Hindi, Telugu,Kannada"
+    },
+    {
+        "id":7,
+        "name":"dj tillu 2",
+        "image":"Image/p7.jpg",
+        "category":"U/A",
+        "Genres":"Comedy/Romance",
+        "language": "Telugu"
+    },
+    {
+        "id":8,
+        "name":"Incredibals",
+        "image":"Image/p8.jpg",
+        "category":"U/A",
+        "Genres":"Action/Adventure",
+        "language": "English"
+    },
+    {
+        "id":9,
+        "name":"I Am legent",
+        "image":"Image/p9.jpg",
+        "category":"A",
+        "Genres":"Action/Fiction",
+        "language": "Spanish, Turkish, Russian,  Italian, English"
+    },
+    {
+        "id":10 , 
+        "name":"Barbie",
+        "image":"Image/p10.jpg",
+        "category":"U/A",
+        "Genres":"Comedy/Fantasy",
+        "language": "English"
+    },
+    {
+        "id":11 ,
+        "name":"Pathan",
+        "image":"Image/p11.jpg",
+        "category":"U/A",
+        "Genres":"Action/Thriller",
+        "language": "Hindi, Telugu, Tamil, Malayalam, Kannada"
+        
+    },
+    {
+        "id":12,
+        "name":"Bloddy daddy",
+        "image":"Image/p12.jpg",
+        "category":"U/A",
+        "Genres":"Action/Thriller",
+        "language":"Hindi"
+    },
+    {
+        "id":13,
+        "name":"Hanuman",
+        "image":"Image/p13.jpg",
+        "category":"U/A",
+        "Genres":"Action,Adventure",
+        "language": "Telugu, Hindi, Malayalam, Kannada, Tamil"
+    },
+    {
+        "id":14,
+        "name":"Kushi",
+        "image":"Image/p14.jpg",
+        "category":"U/A",
+        "Genres":" Romance/Comedy",
+        "language": "Telugu, Tamil, Kannada, Malayalam"
+    },
+    {
+        "id":15,
+        "name":"Rocky aur Rani",
+        "image":"Image/p15.jpg",
+        "category":"U/A",
+        "Genres":" Romance/Comedy",
+        "language": "Hindi"
+    },
+    {
+        "id":16,
+        "name":"Tejas",
+        "image":"Image/p16.jpg",
+        "category":"U/A",
+        "Genres":"Action,Thriller,Drama",
+        "language": "Hindi,English,telugu"
+    }
+   
+]
