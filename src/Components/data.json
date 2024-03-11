@@ -1,12 +1,5 @@
 [
-   {
-        "id":1,
-        "name":"Animal",
-        "image":"Image/p1.jpg",
-        "category":"U/A",
-        "Genres":"Action/crime",
-        "language": "Hindi, Telugu, Tamil, Malayalam, Kannada"
-    }, 
+    
     {
         "id":2,
         "name":"Interstellar", 
@@ -127,6 +120,14 @@
         "category":"U/A",
         "Genres":"Action,Thriller,Drama",
         "language": "Hindi,English,telugu"
+    },
+    {
+        "id":1,
+        "name":"Animal",
+        "image":"Image/p1.jpg",
+        "category":"U/A",
+        "Genres":"Action/crime",
+        "language": "Hindi, Telugu, Tamil, Malayalam, Kannada"
     }
    
 ]
